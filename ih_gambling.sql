@@ -15,6 +15,10 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
+CREATE SCHEMA IF NOT EXISTS `ih_gambling`;
+USE `ih_gambling`;
+
+
 --
 -- Table structure for table `account`
 --
